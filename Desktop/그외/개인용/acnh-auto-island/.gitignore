@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+.pytest_cache/
+data/acnh.db
+data/uploads/
+frontend/node_modules/
+frontend/dist/
